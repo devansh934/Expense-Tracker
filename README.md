@@ -7,15 +7,15 @@ It helps you track income and expenses, calculate your balance automatically, an
 
 ## 🌐 Live Demo
 
-👉 https://devansh934.github.io/Expense-Tracker/
+[Expense Tracker – Live Demo](https://devansh934.github.io/Expense-Tracker/)
 
 ---
 
 ## 📸 Screenshots
 
-> _(Add screenshots here later if needed)_
 
-![Expense Tracker UI]()
+![Expense Tracker UI]
+(<img width="1895" height="880" alt="Screenshot 2026-01-22 183053" src="https://github.com/user-attachments/assets/16e375f5-6a94-44e6-877f-95b37a4262e1" />)
 
 ---
 
