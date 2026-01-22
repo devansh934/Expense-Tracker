@@ -40,9 +40,12 @@ It helps you track income and expenses, calculate your balance automatically, an
 ## 📂 Project Structure
 
 Expense-Tracker/
+
 │── index.html
+
 │── style.css
-└── script.js
+
+│── script.js
 
 
 ---
@@ -62,4 +65,4 @@ Add categories
 
 Add charts & analytics
 
-```
+
